@@ -1,0 +1,1 @@
+# OpenCore-X570-Gaming-E-7800XT-RX570
