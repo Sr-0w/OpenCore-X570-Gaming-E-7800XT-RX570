@@ -1,7 +1,7 @@
 ![OpenCore Logo](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Logos/OpenCore_with_text_Small.png)
 
 # Ryzentosh EFI Guide 
-_Asus ROG STRIX X570 Gaming-E | AMD Ryzen 7 3700X | Nvidia ROG Strix GTX 1080_
+_Asus ROG STRIX X570 Gaming-E | AMD Ryzen 7 3700X | RX 570 Active - RX 7800XT Disabled_
 
 Step-by-step guide for setting up Ventura on an AMD Zen series CPU with the Asus ROG STRIX X570-E GAMING motherboard.
 
@@ -15,7 +15,7 @@ Step-by-step guide for setting up Ventura on an AMD Zen series CPU with the Asus
 | **CPU**        | AMD Ryzen 7 3700X                                            |
 | **Motherboard**| Asus ROG STRIX X570-E GAMING                                  |
 | **RAM**        | 80GB G.Skill DDR4 (2x8GB + 2x 32GB) @ 3600MHz                           |
-| **GPU**        | RX 570 (4GB) - RX 7800XT (16GB - Disabled)                               |
+| **GPU**        | RX 570 (4GB) Active - RX 7800XT (16GB) Disabled                               |
 | **SSD**        | Samsung SSD 970 EVO Plus (1TB NVMe)                           |
 | **Power Supply**| Corsair 750W (Full Modular)                                  |
 | **SMBIOS**     | MacPro7,1                                                    |
