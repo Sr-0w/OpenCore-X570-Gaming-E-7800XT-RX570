@@ -20,7 +20,7 @@ Step-by-step guide for setting up Ventura on an AMD Zen series CPU with the Asus
 | **Power Supply**| Corsair 750W (Full Modular)                                  |
 | **SMBIOS**     | MacPro7,1                                                    |
 | **MacOS Version**| Ventura 13.5.1                                               |
-| **Opencore Version**| 0.9.3                                                      |
+| **Opencore Version**| 1.0.0                                                      |
 
 ## ⚠️ Important Notice
 
