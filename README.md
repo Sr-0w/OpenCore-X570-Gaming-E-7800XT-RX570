@@ -5,7 +5,7 @@ _Asus ROG STRIX X570 Gaming-E | AMD Ryzen 7 3700X | RX 570 Active - RX 7800XT Di
 
 Step-by-step guide for setting up Ventura on an AMD Zen series CPU with the Asus ROG STRIX X570-E GAMING motherboard.
 
-![Setup Image](https://i.imgur.com/dAdnQ3X.png)
+![Setup Image](https://raw.githubusercontent.com/Sr-0w/OpenCore-X570-Gaming-E-7800XT-RX570/main/IMAGES/screenshot.png)
 > Screenshot of Ventura Hackintosh
 
 ## 🖥️ Hardware Specification
