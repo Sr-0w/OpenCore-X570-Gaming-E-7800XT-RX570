@@ -19,7 +19,7 @@ Step-by-step guide for setting up Ventura on an AMD Zen series CPU with the Asus
 | **SSD**        | Samsung SSD 970 EVO Plus (1TB NVMe)                           |
 | **Power Supply**| Corsair 750W (Full Modular)                                  |
 | **SMBIOS**     | MacPro7,1                                                    |
-| **MacOS Version**| Ventura 13.5.1                                               |
+| **MacOS Version**| Sonoma 14.5                                               |
 | **Opencore Version**| 1.0.0                                                      |
 
 ## ⚠️ Important Notice
